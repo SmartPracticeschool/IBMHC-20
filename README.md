@@ -62,7 +62,4 @@ slowdown, job losses, food shortage etc.
 graphs) , it shows that the overall reaction represents the opinion of the majority of public.
 - A dashboard has been created, depicting all the above visualizations.
 
-**UI INTERFACE : [Dashboard](https://eu-gb.dataplatform.cloud.ibm.com/dashboards/0ab60232-6212-4fac-a9a0-fbfc291fa8
-7d/view/5811c91811eb03f716b7e6e4079f2a072f322509e4bbd25288807b495e637197a8381
-498c87b180f89115360f0ef1a5ac8)** 
 
