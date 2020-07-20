@@ -11,7 +11,7 @@ Develop a twitter sentiment analysis model to understand the following:
 https://drive.google.com/drive/folders/15UXp4DCvVsD__XVr4PA6bvAFIQ_ypJY8
 
 ### Dashboard Link:
-https://eu-gb.dataplatform.cloud.ibm.com/dashboards/0ab60232-6212-4fac-a9a0-fbfc291fa87d/view/5811c91811eb03f716b7e6e4079f2a072f322509e4bbd25288807b495e637197a8381498c87b180f89115360f0ef1a5ac8
+https://eu-gb.dataplatform.cloud.ibm.com/dashboards/5a3a2b59-c9f3-48a0-9671-f44eb2991f70/view/5931fe0a24986ad761f5e2e407c87f047837240eb0bb8000d5827b490c682397f33b1791c8794a5b88110265f0ed140dc0
 
  **Overview**
 - The Covid-19 has been endangering the public safety and the government has been imposing
