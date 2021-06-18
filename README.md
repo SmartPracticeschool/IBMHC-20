@@ -1,5 +1,7 @@
+# IBM SmartInterz Hackathon Code - Sentiment analysis of covid-19 tweets with visualisation dashboard
+
 ![Intro](https://github.com/SmartPracticeschool/SBSPS-Challenge-1624-Sentiment-Analysis-of-COVID-19-Tweets-Visualization-Dashboard/blob/master/Screenshot%20(35).png)
-IBM SmartInterz Hackathon Code - Sentiment analysis of covid-19 tweets with visualisation dashboard
+
 
 # SBSPS-Challenge-1624-Sentiment-Analysis-of-COVID-19-Tweets-Visualization-Dashboard
 
