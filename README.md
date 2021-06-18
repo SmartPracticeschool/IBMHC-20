@@ -1,5 +1,8 @@
 ![Intro](https://github.com/SmartPracticeschool/SBSPS-Challenge-1624-Sentiment-Analysis-of-COVID-19-Tweets-Visualization-Dashboard/blob/master/Screenshot%20(35).png)
+IBM SmartInterz Hackathon Code - Sentiment analysis of covid-19 tweets with visualisation dashboard
+
 # SBSPS-Challenge-1624-Sentiment-Analysis-of-COVID-19-Tweets-Visualization-Dashboard
+
 The sentiment analysis of Indians after the extension of lockdown announcements to be analyzed with the relevant #tags on twitter and build a predictive analytics model to understand the behavior of people if the lockdown is further extended.
 Also develop a dashboard with visualization of people's reaction to the government announcements on lockdown extension.
 
